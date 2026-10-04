@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Pixel Art Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Sworno+Das;Beginner+Frontend+Developer;Aspiring+BCA+Student+%40+TMSL;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 <!-- Centered Title and Bio -->
