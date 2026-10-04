@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,25&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Sworno!&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" alt="Capsule Render Banner" />
 </p>
 <!-- Centered Title and Bio -->
 <h1 align="center">Hi there! I'm [Tirthanakr Narayan Basu] 👋</h1>
