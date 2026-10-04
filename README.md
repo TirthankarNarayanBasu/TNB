@@ -1,8 +1,6 @@
-<!-- Header Banner Image -->
 <p align="center">
-  <img src="https://your-image-url-or-relative-path.gif" alt="Header Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,25&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
-
 <!-- Centered Title and Bio -->
 <h1 align="center">Hi there! I'm [Tirthanakr Narayan Basu] 👋</h1>
 
