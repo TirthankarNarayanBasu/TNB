@@ -24,18 +24,12 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TirthankarNarayanBasu&theme=tokyonight" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TirthankarNarayanBasu&theme=tokyonight" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TirthankarNarayanBasu&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=catppuccin_macchiato" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=catppuccin_macchiato" />
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,py,php,mysql&theme=dark" />
-  </a>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=TirthankarNarayanBasu&show_icons=true&theme=catppuccin_macchiato" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TirthankarNarayanBasu&layout=compact&theme=catppuccin_macchiato" />
 </p>
 ---
 
