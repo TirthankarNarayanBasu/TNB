@@ -27,12 +27,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TirthankarNarayanBasu&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
-<p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=TirthankarNarayanBasu&show_icons=true&theme=catppuccin_macchiato" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TirthankarNarayanBasu&layout=compact&theme=catppuccin_macchiato" />
-</p>
----
-
 <!-- Skills Section -->
 <h2 align="center">🚀 What I Know</h2>
 
