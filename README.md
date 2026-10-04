@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Sworno!&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" alt="Capsule Render Banner" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Pixel Art Banner" />
 </p>
+
 <!-- Centered Title and Bio -->
 <h1 align="center">Hi there! I'm [Tirthanakr Narayan Basu] 👋</h1>
 
