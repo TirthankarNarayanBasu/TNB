@@ -16,11 +16,8 @@
 
 <!-- GitHub Stats Cards (Using github-readme-stats) -->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=YOUR_EXACT_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_EXACT_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   </a>
 </p>
 ---
