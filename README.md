@@ -4,7 +4,7 @@
 </p>
 
 <!-- Centered Title and Bio -->
-<h1 align="center">Hi there! I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there! I'm [Tirthanakr Narayan Basu] 👋</h1>
 
 <p align="center">
   🐱 <strong>Beginner Frontend Developer, Aspiring BCA Student at TMSL '28 🎓 & Tech Enthusiast</strong> 🐱
@@ -19,10 +19,10 @@
 <!-- GitHub Stats Cards (Using github-readme-stats) -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=TirthanakrNarayanBasu&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TirthanakrNarayanBasu&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
   </a>
 </p>
 
