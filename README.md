@@ -2,13 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Tirthankar+Narayan+Basu;Beginner+Frontend+Developer;Aspiring+BCA+Student+%40+TMSL;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
-<!-- Centered Title and Bio -->
-<h1 align="center">Hi there! I'm [Tirthanakr Narayan Basu] 👋</h1>
-
-<p align="center">
-  🐱 <strong>Beginner Frontend Developer, Aspiring BCA Student at TMSL '28 🎓 & Tech Enthusiast</strong> 🐱
-</p>
-
 <p align="center">
   🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 </p>
