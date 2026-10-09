@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    background-color: lightblue;
+}
+input {
+    padding: 20px;
+}
+button {
+    padding: 20px;
+    background-color: green;
+    color: white;
+    border: none;
+}
+li {
+    margin: 10px;
+}
